@@ -2,4 +2,4 @@
 const nextConfig = {}
 dvdsvvfjvf
 module.exports = nextConfig
-kgkrgergreij
+kgkrgergreijjigjig
